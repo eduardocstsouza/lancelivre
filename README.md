@@ -1,4 +1,4 @@
-## LanceLivre: Seu Pesquisador de Atletas Personalizado
+## LanceLivre: Seu Pesquisador de Atletas Personalizado - Imersão Dev com Google Gemini
 Descrição:
 
 LanceLivre é uma aplicação web simples e intuitiva que permite pesquisar por atletas de futebol. Ao digitar o nome de um atleta, a aplicação retorna informações relevantes como:
